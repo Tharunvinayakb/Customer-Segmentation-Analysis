@@ -28,3 +28,9 @@ This project uses K-Means Clustering to segment customers based on their annual 
 ## Outcome
 
 Successfully grouped customers into distinct segments to support targeted marketing and business decision-making.
+
+## Output
+
+Customer segmentation visualization generated using K-Means clustering.
+
+![Customer Segmentation](customer_segmentation.png)
